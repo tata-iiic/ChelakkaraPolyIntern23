@@ -9,7 +9,7 @@ List of Interns
 4. [Rabeeb K M](https://github.com/abhinavsrajesh/internship/blob/main/Day1.md)
 5. [Harirkrishnan k](https://github.com/Harikrishnankanjingattu/internship/blob/main/index.md)
 6. sebastian sunny
-7. [darsan tp](https://github.com/DarsanTP/INTERNSHIPREPORT/blob/main/index.md)
+7. [Darsan tp](https://github.com/DarsanTP/INTERNSHIPREPORT/blob/main/index.md)
 8. [sujeesh pt](https://github.com/sujeeshpt/internalship/blob/main/day1.md)
 9. [jeeson john](https://github.com/jeesonjohn/internship/blob/main/index.md)
 10. pranav pd
