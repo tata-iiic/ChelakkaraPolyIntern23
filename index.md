@@ -7,7 +7,7 @@ List of Interns
 2. [Akhil M](https://github.com/sooryanath1/Internship1/blob/main/index1.md)
 3. Abhinav S Rajesh
 4. Rabeeb K M
-5. [Harirkrishnan k](https://github.com/Harikrishnankanjingattu/DAY1/blob/main/day1.md)
+5. [Harirkrishnan k](https://github.com/Harikrishnankanjingattu/DAY1/blob/main/day1.md) [Harikrishnank day-2](https://github.com/Harikrishnankanjingattu/day2/blob/main/day2.md)
 6. sebastian sunny
 7. darsan tp
 8. sujeesh pt
