@@ -14,7 +14,7 @@ List of Interns
 9. [jeeson john](https://github.com/jeesonjohn/internship/blob/main/index.md)
 10. Pranav pd
 11. [Vishnu MM ](https://github.com/vishnummVmm/Internship/blob/main/Index.md)
-12. [BIJYO](https://github.com/BIJYO/INTERNSHIPREPORT/new/main)
+12. [BIJYO](https://github.com/BIJYO/INTERNSHIPREPORT/blob/main/INDEX.MD)
 
 
 
