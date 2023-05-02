@@ -5,8 +5,8 @@ Internship offered for Govt. Polytechnic , Chelakkara from May 2, 2023 to
 List of Interns
 1. [Sooryanath G](https://github.com/sooryanath1/Internship1/blob/main/index1.md)
 2. [Akhil M](https://github.com/sooryanath1/Internship1/blob/main/index1.md)
-3. Abhinav S Rajesh
-4. Rabeeb K M
+3. [Abhinav S Rajesh](https://github.com/abhinavsrajesh/internship/blob/main/Day1.md)
+4. [Rabeeb K M](https://github.com/abhinavsrajesh/internship/blob/main/Day1.md)
 5. [Harirkrishnan k](https://github.com/Harikrishnankanjingattu/internship/blob/main/index.md)
 6. sebastian sunny
 7. darsan tp
