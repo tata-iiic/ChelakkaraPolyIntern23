@@ -12,8 +12,8 @@ List of Interns
 7. [Darsan tp](https://github.com/DarsanTP/INTERNSHIPREPORT/blob/main/index.md)
 8. [sujeesh pt](https://github.com/sujeeshpt/internalship/blob/main/day1.md)
 9. [jeeson john](https://github.com/jeesonjohn/internship/blob/main/index.md)
-10. pranav pd
-11. [vishnu mm](https://github.com/vishnummVmm/Internship/blob/main/Index.md)
+10. Pranav pd
+11. [Vishnu MM ](https://github.com/vishnummVmm/Internship/blob/main/Index.md)
 
 
 
