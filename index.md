@@ -8,7 +8,10 @@ List of Interns
 3. Abhinav S Rajesh
 4. Rabeeb K M
 5. Harirkrishnan k 
-6. sebastian sunny 
-7.darsan tp
-8 sujeesh pt
+6. sebastian sunny
+7. darsan tp
+8. sujeesh pt
+9. jeeson john p
+10. pranav pd
+11. vishnu mm
 
